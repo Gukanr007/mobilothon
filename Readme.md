@@ -119,13 +119,13 @@ Watch the demo video showcasing the app prototype in action:
 
 ## **Screenshots**
 
-| Screen      | Preview                                         |
-| ----------- | ----------------------------------------------- |
-| Home Screen | ![Home Screen](./images/home-screen.png)        |
-| Drive Mode  | ![Drive Mode](./images/drive-mode-screen.png)   |
-| Diagnostics | ![Diagnostics](./images/diagnostics-screen.png) |
-| Eco Mode    | ![Eco Mode](./images/eco-mode-screen.png)       |
-| Profile     | ![Profile](./images/profile-screen.png)         |
+| Screen      | Preview                                   |
+| ----------- | ----------------------------------------- |
+| Home Screen | ![Home Screen](./images/homeImage.png)    |
+| Drive Mode  | ![Drive Mode](./images/driveImage.png)    |
+| Diagnostics | ![Diagnostics](./images/maintenImage.png) |
+| Eco Mode    | ![Eco Mode](./images/ecoImage.png)        |
+| Profile     | ![Profile](./images/profileImage.png)     |
 
 ---
 

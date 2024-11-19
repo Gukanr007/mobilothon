@@ -2,6 +2,8 @@
 
 CarAura is a comprehensive mobile application prototype designed to enhance vehicle management, improve driving efficiency, and prioritize driver safety. This app provides a user-friendly interface and powerful features tailored for electric vehicles (EVs) and compatible with traditional cars.
 
+![CarAura](./images/CarAura.png)
+
 ---
 
 ## **Features**
@@ -12,7 +14,7 @@ CarAura is a comprehensive mobile application prototype designed to enhance vehi
 - Driver wellness tracking with wearable device integration.
 - Real-time vehicle location tracking for added security.
 
-![Home Screen](./images/home-screen.png)
+![Home Screen](./images/homeImage.png)
 
 ---
 
@@ -23,7 +25,7 @@ CarAura is a comprehensive mobile application prototype designed to enhance vehi
 - Real-time eco-driving tips to optimize energy consumption and driving efficiency.
 - Quick controls for ambient lighting, climate settings, and media playback.
 
-![Drive Mode Screen](./images/drive-mode-screen.png)
+![Drive Mode Screen](./images/driveImage.png)
 
 ---
 
@@ -33,7 +35,7 @@ CarAura is a comprehensive mobile application prototype designed to enhance vehi
 - AI-powered predictive maintenance suggestions based on historical and real-time data.
 - Review of completed maintenance records and quick service scheduling options.
 
-![Diagnostics Screen](./images/diagnostics-screen.png)
+![Diagnostics Screen](./images/maintenImage.png)
 
 ---
 
@@ -44,7 +46,7 @@ CarAura is a comprehensive mobile application prototype designed to enhance vehi
 - Battery status, consumption rate, and estimated range (for EVs).
 - Vehicle-to-Grid (V2G) energy sharing feature to contribute to the energy grid and reduce costs.
 
-![Eco Mode Screen](./images/eco-mode-screen.png)
+![Eco Mode Screen](./images/ecoImage.png)
 
 ---
 
@@ -54,7 +56,7 @@ CarAura is a comprehensive mobile application prototype designed to enhance vehi
 - Emergency incident reporting system with fraud-proof insurance claim options.
 - Access to incident history and saved service records.
 
-![Profile Screen](./images/profile-screen.png)
+![Profile Screen](./images/profileImage.png)
 
 ---
 
@@ -64,7 +66,7 @@ CarAura is a comprehensive mobile application prototype designed to enhance vehi
 
 1. **Front-End Development**:
 
-   - Built using [React Native](https://reactnative.dev/) for cross-platform mobile app development.
+   - Built using [Flutter](https://flutter.dev/) for cross-platform mobile app development.
    - UI designed to prioritize ease of use and clear navigation.
 
 2. **Back-End Services**:
@@ -145,12 +147,6 @@ We welcome contributions to improve CarAura!
    git push origin feature/your-feature-name
    ```
 5. Open a pull request.
-
----
-
-## **License**
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
 ---
 
